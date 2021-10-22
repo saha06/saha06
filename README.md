@@ -1,5 +1,5 @@
  <h1 align="center">Hello 👋, I'm SHRESTHI SAHA</h1>   
-<h2 align="center">just a beginner</h2>
+<h2 align="center">A beginner</h2>
 
 
 ![hello](https://github.com/saha06/saha06/blob/main/gif.JPG)
