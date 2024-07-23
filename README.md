@@ -11,7 +11,7 @@
 
 <img src="https://img.icons8.com/external-prettycons-flat-prettycons/94/000000/external-coding-education-prettycons-flat-prettycons.png"/>
 
-- 🌱 I’m currently learning **C**   
+- 🌱 I’m proficient in **C,PYTHON and mySQL**   
 
 - 💬 Ask me about **python, mysql**
 
