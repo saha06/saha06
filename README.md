@@ -11,9 +11,9 @@
 
 <img src="https://img.icons8.com/external-prettycons-flat-prettycons/94/000000/external-coding-education-prettycons-flat-prettycons.png"/>
 
-- 🌱 I’m proficient in **C,PYTHON,HTML,CSS and mySQL**   
+- 🌱 I’m proficient in **C,PYTHON,HTML and mySQL**   
 
-- 💬 Ask me about **python, mysql**
+- 💬 CURRENTLY LEARNING **CSS AND WEB DEVELOPMENT**
 
 - ⚡ Fun fact **you are reading this right now**      
 
